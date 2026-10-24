@@ -1,0 +1,12 @@
+node_modules/
+dist/
+public/mediapipe/wasm/
+public/models/*.task
+public/models/*.sha256
+public/models/*.download
+*.tsbuildinfo
+__pycache__/
+.venv/
+.env
+.playwright/
+test-results/
